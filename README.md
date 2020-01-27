@@ -1,4 +1,4 @@
-# Pong DirectXTK
+# Pong DirectXTK - First Year
 
 A DirectXTK 2D project created for my second term of my first year at The University of Huddersfield.
 
