@@ -2,6 +2,8 @@
 
 A DirectXTK 2D project created for my second term of my first year at The University of Huddersfield.
 
+Like some of my other GitHub projects, even thought the code is terrible. I just cant bring myself to delete it XD
+
 ----------------------------------------------------------------------------------
 
 This project was created using the skills I had obtained from my first project. Put simple, it's a Pong game that has a main menu state, difficulty menu state and a play state.
